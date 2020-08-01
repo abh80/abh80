@@ -7,6 +7,6 @@ This Package will help you interact with the **spotify api** easily.
 This package helps you fetch coronavirus information durectly from **worldometer.info**.
 
 
-
+[Details](https://github-readme-stats.vercel.app/api?username=abh80&theme=algolia)
 
 
