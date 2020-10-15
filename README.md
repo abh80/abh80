@@ -11,6 +11,6 @@ This package helps you fetch coronavirus information durectly from **worldometer
 - [starstracker.xyz](https://github.com/abh80/starstracker.xyz) --> My website .
 - [Amazon-Dark](https://github.com/abh80/Amazon-Dark) --> A better way to browse and shop on amazon with dark mode !
 
-![spotify-img](https://spotify.starstracker.xyz)
+![spotify-img](https://spotify.starstracker.xyz?x=none)
 
 
