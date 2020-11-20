@@ -10,6 +10,6 @@ This package helps you fetch coronavirus information durectly from **worldometer
 - [SpaceX App](https://github.com/abh80/spacexapp) --> An App or website made for Space X fans using the **React JS** visit during beta by [clicking here](https://spacex.starstracker.xyz/).
 - [starstracker.xyz](https://github.com/abh80/starstracker.xyz) --> My website .
 - [Amazon-Dark](https://github.com/abh80/Amazon-Dark) --> A better way to browse and shop on amazon with dark mode !
-
+- [Blogs](https://github.com/abh80/blogs) --> A simple blog website made using docusaurus.
 
 ![Details](https://github-readme-stats.vercel.app/api?username=abh80&theme=algolia)
