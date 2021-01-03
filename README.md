@@ -1,6 +1,7 @@
 # Abh80
 Hey there ! I am **Abh80**, I make some boring stuffs :)
-![spotify](https://shazam.api.starstracker.xyz/spotifycard)
+
+![spotify](https://shazam.api.starstracker.xyz/spc)
 # My Projects
 - [spotify-api.js](https://github.com/spotify-api/spotify-api.js) -->
 This Package will help you interact with the **spotify api** easily.
