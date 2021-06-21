@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm abh80</h1>
 <h3 align="center">I am a Javascript / Java developer</h3>
 - What am I listening ?
-- ![spotify](https://shazam.api.starstracker.xyz/spc)
+ ![spotify](https://shazam.api.starstracker.xyz/spc)
 - 🔭 I’m currently working on [spotify-stats](https://github.com/abh80/spotify-stats)
 
 - 🌱 I’m currently learning **Angular , Kotlin**
