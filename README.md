@@ -27,6 +27,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=abh80&repo=auto-mergebot&show_icons=true&locale=en&theme=radical" alt="spotify-stats"/></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=abh80&repo=blogs&show_icons=true&locale=en&theme=radical" alt="spotify-stats"/></p>
+
 # What am I listening ?
 
 ![spotify](https://shazam.api.starstracker.xyz/spc)
