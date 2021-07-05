@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [spotify-stats](https://github.com/abh80/spotify-stats)
 
-- 🌱 I’m currently learning **Angular , Kotlin**
+- 🌱 I’m currently learning **Nothing**
 
 - 💬 Ask me about **react , angular**
 
