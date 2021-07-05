@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm abh80</h1>
-<h3 align="center">I am a Javascript / Java developer</h3>
+<h3 align="center">I am a Javascript / Java / C# developer</h3>
 
 
 - 🔭 I’m currently working on [spotify-stats](https://github.com/abh80/spotify-stats)
