@@ -8,7 +8,9 @@
 
 - 💬 Ask me about **react , angular**
 
-- ⚡ Fun fact **I like sleepless nights song!**
+- ⚡ Fun fact [**I like sleepless nights song!**](https://open.spotify.com/track/4PUWpNtDejQwwa80LjvxXl?si=0ac3c01d2a994967)
+
+- My favourite language is **Java , Kotlin** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
