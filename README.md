@@ -37,3 +37,6 @@
 # What am I listening ?
 
 ![spotify](https://shazam.api.starstracker.xyz/spc)
+
+# Coding Status
+<img src="https://github.com/abh80/abh80/blob/master/images/stat.svg" alt="Alternative Text"/>
