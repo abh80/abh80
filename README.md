@@ -2,7 +2,7 @@
 <h3 align="center">I am a Javascript / Java / C# developer</h3>
 
 
-- 🔭 I’m currently working on **Fast Store**
+- 🔭 I’m currently working on **[Squiggle](https://github.com/Squiggle)**
 
 - 🌱 I’m currently learning **C++**
 
