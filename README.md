@@ -39,4 +39,4 @@
 ![spotify](https://shazam.api.starstracker.xyz/spc)
 
 # Coding Status
-<img src="https://github.com/abh80/abh80/blob/master/images/stat.svg" alt="Alternative Text"/>
+![v](https://github-readme-stats.vercel.app/api/wakatime?username=abh80&range=last_year&layout=compact&theme=radical)
