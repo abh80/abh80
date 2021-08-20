@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **[Family-Room](https://github.com/abh80/family-room)**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Nothing**
 
 - 💬 Ask me about **react , angular**
 
