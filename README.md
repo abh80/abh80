@@ -34,9 +34,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=abh80&repo=audio-cloud&show_icons=true&locale=en&theme=radical" alt="spotify-stats"/></p>
 
-# What am I listening ?
-
-![spotify](https://shazam.api.starstracker.xyz/spc)
 
 # Coding Status
 ![v](https://github-readme-stats.vercel.app/api/wakatime?username=abh80&range=last_year&layout=compact&theme=radical)
+
