@@ -38,3 +38,5 @@
 # Coding Status
 ![v](https://github-readme-stats.vercel.app/api/wakatime?username=abh80&range=last_year&layout=compact&theme=radical)
 
+<img src="./Twitter_Stats.png" height="250" width="500"/>
+
