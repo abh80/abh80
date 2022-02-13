@@ -1,8 +1,9 @@
 name: Twitter Stats
 
 on:
-  push:
-    branches: [ master ]
+  workflow_dispatch:
+  schedule:
+    - cron:  "*/* 1 * * *"
 
 jobs:
   twitterStats:
