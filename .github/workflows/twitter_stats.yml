@@ -23,16 +23,10 @@ jobs:
        with:
         repository: abh80/github-readme-stats
         path: temp/
-        
-     - name: Change Dir
-       run: cd temp
     
      - name: Install modules
-       run: npm install
-     
-     - name: Change Dir
-       run: cd ..
-     
+       run: cd temp && npm install
+         
      - name: Run main script
        run: node ./temp/src/twitter/index.js
      
