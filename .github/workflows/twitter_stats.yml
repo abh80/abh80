@@ -1,0 +1,54 @@
+# This workflow will do a clean installation of node dependencies, cache/restore them, build the source code and run tests across different versions of node
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
+
+name: Twitter Stats
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  twitterStats:
+
+    runs-on: ubuntu-latest
+
+    steps:
+     - uses: actions/checkout@v2
+     - uses: actions/setup-node@master
+       with:
+        node_version: 14
+    
+     - name: Clone Github Readme Stats repo
+       uses: actions/checkout@v2
+       with:
+        repository: abh80/github-readme-stats
+        path: temp/
+        
+     - name: Change Dir
+       run: cd temp
+    
+     - name: Install modules
+       run: npm install
+     
+     - name: Change Dir
+       run: cd ..
+     
+     - name: Run main script
+       run: node ./temp/src/twitter/index.js
+     
+     - name: Remove Temp dir
+       run: rm -rf temp
+       
+     - name: Update and Commit
+       run: |
+          git config --local user.name "Github Actions"
+          git config --local user.email "action@github.com"
+          git add -A
+          git commit -m "Update Twitter Stats"
+          
+     - name: Push to Github
+       uses: ad-m/github-push-action@master
+       with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
+    
