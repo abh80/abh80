@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm abh80</h1>
+
 <h3 align="center">I am a Javascript / Java / C# developer</h3>
 
 
@@ -23,6 +24,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abh80&show_icons=true&locale=en&theme=radical" alt="abh80" /></p>
 
+
+<img src="./Twitter_Stats.png" align="center" height="250" width="500"/>
+
 # Pinned Repos
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=abh80&repo=spotify-stats&show_icons=true&locale=en&theme=radical" alt="spotify-stats"/></p>
@@ -38,5 +42,4 @@
 # Coding Status
 ![v](https://github-readme-stats.vercel.app/api/wakatime?username=abh80&range=last_year&layout=compact&theme=radical)
 
-<img src="./Twitter_Stats.png" height="250" width="500"/>
 
