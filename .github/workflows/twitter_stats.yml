@@ -39,7 +39,7 @@ jobs:
           git config --local user.name "Github Actions"
           git config --local user.email "action@github.com"
           git add -A
-          git commit -m "Update Twitter Stats"
+          git commit -m "Update Twitter Stats" --allow-empty
           
      - name: Push to Github
        uses: ad-m/github-push-action@master
