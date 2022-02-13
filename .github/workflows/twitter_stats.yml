@@ -24,11 +24,11 @@ jobs:
      - name: Install modules
        run: cd temp && npm install
          
-     - env: 
-        twitter_username: ${{ secrets.TWITTER_USERNAME }}
-        token: ${{ secrets.TWITTER_TOKEN }}
      - name: Run main script
        run: node ./temp/src/twitter/index.js
+       env: 
+        twitter_username: ${{ secrets.TWITTER_USERNAME }}
+        token: ${{ secrets.TWITTER_TOKEN }}
      
      - name: Remove Temp dir
        run: rm -rf temp
