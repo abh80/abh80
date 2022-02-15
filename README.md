@@ -24,7 +24,7 @@
 
 <a href="https://twitter.com/TrackerStars"><img src="./Twitter_Stats.svg" align="center" height="250" width="500"/></a>
 
-<a href="https://stackoverflow.com/users/14200419/stars-tracker"><img src="https://github-readme-stats-abh80.vercel.app/stack-exchange?site=stackoverflow&id=14200419"  height="200" width="400"/></a>
+<a href="https://stackoverflow.com/users/14200419/stars-tracker"><img src="https://github-readme-stats-abh80.vercel.app/stack-exchange?site=stackoverflow&id=14200419&theme=stackoverflow"  height="200" width="400"/></a>
 
 <a href="https://space.stackexchange.com/users/45915/stars-tracker"><img src="https://github-readme-stats-abh80.vercel.app/stack-exchange?site=space&id=45915"  height="200" width="400"/></a>
 
