@@ -30,19 +30,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abh80&show_icons=true&locale=en&theme=radical" alt="abh80" /></p>
 
-# Pinned Repos
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=abh80&repo=spotify-stats&show_icons=true&locale=en&theme=radical" alt="spotify-stats"/></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=abh80&repo=Darwin&show_icons=true&locale=en&theme=radical" alt="spotify-stats"/></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=abh80&repo=blogs&show_icons=true&locale=en&theme=radical" alt="spotify-stats"/></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=abh80&repo=audio-cloud&show_icons=true&locale=en&theme=radical" alt="spotify-stats"/></p>
-
-
-# Coding Status
-![v](https://github-readme-stats.vercel.app/api/wakatime?username=abh80&range=last_year&layout=compact&theme=radical)
-
-
