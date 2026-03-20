@@ -1,164 +1,65 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi, I'm Abh80 👋
 
-###
+⚡ **Full-Stack & Systems Builder** | 🌌 **Space, Music & Language Nerd**
 
-<p align="left">I am Java / Javascript dedveloper. Im interested in DevOps primarily</p>
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-F05032?style=flat-square&logo=git&logoColor=white)
 
-###
+> From high level scalable systems to programming languages to 3D space simulations — I build across the full spectrum. Driven by curiosity, fueled by caffeine.
 
-<h2 align="left">About me</h2>
+## 🏗️ Work-in-progress Projects
+- 🔭 **[New-Frontiers](https://github.com/abh80/New-Frontiers)** — Low-level astrodynamics library for Scala & Java. Orbital mechanics, the hard way.
+- 🔄 **[verschraenkt-ci](https://github.com/abh80/verschraenkt-ci)** — Fully independent CI platform, written in pure Scala. No external CI needed.
+## 🌟 Notable Projects
+- 📷 **[Flowops](https://gitlab.com/platinum-core-labs/flowops/flowops)** Scala/Java based remote git repository management system like Github/Gitlab.
+- 🤖 **[smart-edge](https://github.com/abh80/smart-edge)** ⭐ 236 — Dynamic Island for Android, before it was cool. Live notification pill in pure Java.
+- 🎵 **[spotify-api.js](https://github.com/spotify-api/spotify-api.js)** ⭐ 226 — Type-safe Spotify Web API wrapper with auto token refresh, rate limiting & caching. Works on Node.js, Deno & browsers.
+- 🌌 **[Frontier](https://github.com/CosmoFrontier/Frontier)** ⭐ 15 — Explore the solar system in full 3D, right in your browser.
+- ⚡ **[zenith](https://github.com/abh80/zenith)** — A programming language for physicists. Write `mass times velocity squared` and mean it. Transpiles to JS via Scala.
+- 🛰️ **[nova](https://github.com/abh80/nova)** — Scala/Java backend service for managing git repositories on file system.
+- 📊 **[github-readme-stats](https://github.com/abh80/github-readme-stats)** — Stat cards for your GitHub profile README.
+- 🤖 **[triage-bot](https://github.com/abh80/triage-bot)** — Auto-triage issues & MRs using a rich YAML config. Works on GitHub & GitLab.
+- 🔀 **[auto-mergebot](https://github.com/abh80/auto-mergebot)** — GitHub bot to automate PR merges based on configurable rules.
 
-###
+### Legacy / Archived
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning DevOps<br>🎯 Goals: Contribute to open source</p>
+- 🕹️ **[MPlayer](https://github.com/abh80/MPlayer)** — Android music player that streams & plays from YouTube, in Java.
+- 🎨 **[Amazon-Dark](https://github.com/abh80/Amazon-Dark)** ⭐ 6 — Dark theme CSS for all Amazon domains.
+- 🟣 **[Spotify-Purple-Theme](https://github.com/abh80/Spotify-Purple-Theme)** — Purple-blue skin for Spotify Web Player.
+- 🚀 **[spacexapp](https://github.com/abh80/spacexapp)** — SpaceX fan app built with TypeScript.
+- 🕐 **[clock](https://github.com/abh80/clock)** — Electron app featuring astronomical observatory data from around the world.
 
-###
+## 📡 GitLab
 
-<h2 align="left">Languages I know</h2>
+Most of my active work lives on GitLab — check out my profile and organization:
 
-###
+- 👤 **[gitlab.com/abh80](https://gitlab.com/abh80)** — Personal projects & experiments
+- 🏢 **[gitlab.com/platinum-core-labs](https://gitlab.com/platinum-core-labs)** — Organization & collaborative projects
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-</div>
+## 🧑‍💻 What I'm Into
 
-###
+- **Building things end-to-end** — Android, web frontends, backend APIs, infra, and even compilers
+- **Open source automation** — bots, CI pipelines, and dev tooling that makes life easier
+- **Space & astrodynamics** — from browser-based simulations to low-level orbital mechanics
+- **Music & audio** — if Spotify or SoundCloud have an API, I've probably wrapped it
 
-<h2 align="left">Skills I know</h2>
+## GitHub Activity
 
-###
+![GitHub Contribution Graph](https://ghchart.rshah.org/abh80)
 
-<h3 align="left">DevOps</h3>
+## Connect
 
-###
+[![GitHub](https://img.shields.io/badge/-abh80-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abh80)
+[![GitLab](https://img.shields.io/badge/-abh80-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/abh80)
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=white&style=for-the-badge" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/travisci/3EAAAF" height="40" alt="travis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
-</div>
-
-###
-
-<h3 align="left">Web Dev</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/babel/F9DC3E" height="40" alt="babel logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mui/007FFF" height="40" alt="materialui logo"  />
-</div>
-
-###
-
-<h3 align="left">Android</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-</div>
-
-###
-
-<h3 align="left">Others</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cassandra" height="40" alt="apachecassandra logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="cloudflare logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
-</div>
-
-###
-
-## Stats
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abh80&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abh80&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=abh80&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<details>
-<summary><strong>StackExchange Stats<strong></summary>
-
-###
-
-<div align="center">
-<a href="https://stackoverflow.com/users/14200419/stars-tracker"><img src="https://github-readme-stats-abh80.vercel.app/stack-exchange?site=stackoverflow&id=14200419&theme=stackoverflow"  height="200" width="400"/></a>
-<a href="https://space.stackexchange.com/users/45915/stars-tracker"><img src="https://github-readme-stats-abh80.vercel.app/stack-exchange?site=space&id=45915"  height="200" width="400"/></a>
-</div>
-
-###
-
-To get these statuses check out my [Github-Readme-Status](https://github.com/abh80/github-readme-stats) repository :)
-</details>
-
-###
-
-<h2 align="left">Profile Views</h2>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/abh80/count.svg?"  />
-</div>
-
-###
+> *"Make it good, then ship it!"*
