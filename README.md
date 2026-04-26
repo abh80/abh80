@@ -16,6 +16,8 @@
 
 > From high level scalable systems to programming languages to 3D space simulations — I build across the full spectrum. Driven by curiosity, fueled by caffeine.
 
+*All my raycast extensions available at: [abh80/awesome-raycast-extensions](https://github.com/abh80/awesome-raycast-extensions)*
+
 ## 🏗️ Work-in-progress Projects
 - 🔭 **[New-Frontiers](https://github.com/abh80/New-Frontiers)** — Low-level astrodynamics library for Scala & Java. Orbital mechanics, the hard way.
 - 🔄 **[verschraenkt-ci](https://github.com/abh80/verschraenkt-ci)** — Fully independent CI platform, written in pure Scala. No external CI needed.
