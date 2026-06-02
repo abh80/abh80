@@ -23,6 +23,7 @@
 - 🔄 **[verschraenkt-ci](https://github.com/abh80/verschraenkt-ci)** — Fully independent CI platform, written in pure Scala. No external CI needed.
 ## 🌟 Notable Projects
 - 📷 **[Flowops](https://gitlab.com/platinum-core-labs/flowops/flowops)** Scala/Java based remote git repository management system like Github/Gitlab.
+- - 🌐 **[lithium-prsim](https://github.com/abh80/lithium-prism)** — Standalone, framework-agnostic UI kit built on native Web Components (custom elements) forked from imputnet/helium-prism; See [live](https://lithium-prism.techixspotify.workers.dev/)
 - 🤖 **[smart-edge](https://github.com/abh80/smart-edge)** ⭐ 236 — Dynamic Island for Android, before it was cool. Live notification pill in pure Java.
 - 🎵 **[spotify-api.js](https://github.com/spotify-api/spotify-api.js)** ⭐ 226 — Type-safe Spotify Web API wrapper with auto token refresh, rate limiting & caching. Works on Node.js, Deno & browsers.
 - 🌌 **[Frontier](https://github.com/CosmoFrontier/Frontier)** ⭐ 15 — Explore the solar system in full 3D, right in your browser.
@@ -31,6 +32,7 @@
 - 📊 **[github-readme-stats](https://github.com/abh80/github-readme-stats)** — Stat cards for your GitHub profile README.
 - 🤖 **[triage-bot](https://github.com/abh80/triage-bot)** — Auto-triage issues & MRs using a rich YAML config. Works on GitHub & GitLab.
 - 🔀 **[auto-mergebot](https://github.com/abh80/auto-mergebot)** — GitHub bot to automate PR merges based on configurable rules.
+
 
 ### Legacy / Archived
 
