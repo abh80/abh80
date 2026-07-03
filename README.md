@@ -2,6 +2,10 @@
 
 ⚡ **Full-Stack & Systems Builder** | 🌌 **Space, Music & Language Nerd**
 
+<a href="https://gitfut.com/abh80">
+  <img src="https://gitfut.com/abh80.png" alt="My GitFut card" width="250">
+</a>
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
